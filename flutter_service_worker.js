@@ -4,9 +4,9 @@ const TEMP = 'flutter-temp-cache';
 const CACHE_NAME = 'flutter-app-cache';
 const RESOURCES = {
   "version.json": "7d97b68dd15f56feb577d52f5993a4fb",
-"index.html": "06fb3626ecc7f61683be7d9eb42f5dcb",
-"/": "06fb3626ecc7f61683be7d9eb42f5dcb",
-"main.dart.js": "1739af5915f7e2b0106048c57f62e3a4",
+"index.html": "82d94ee51d25b0cf35fc479b77076a0f",
+"/": "82d94ee51d25b0cf35fc479b77076a0f",
+"main.dart.js": "b262f665c2d568716cf4471a912f4c28",
 "favicon.png": "5dcef449791fa27946b3d35ad8803796",
 "icons/Icon-192.png": "ac9a721a12bbc803b44f645561ecb1e1",
 "icons/Icon-maskable-192.png": "c457ef57daa1d16f64b27b786ec2ea3c",
@@ -30,12 +30,8 @@ const RESOURCES = {
 "assets/assets/imgs/ffemoji_smile.png": "9bd2c571600ed77d91a426253188dc1c",
 "assets/assets/imgs/ffemoji_celebrate.png": "1e3e2fe49f96d1aacf83e47c6992a864",
 "assets/assets/imgs/header.png": "c28125481777f16fcc4983b42c8fff28",
-"assets/assets/imgs/ffqrcode.png": "481d842f118f5acb7759898e4b48e024",
-"assets/assets/imgs/ffemoji_heart.png": "2386aea1c0dc980987d6e8c1e9599378",
-"canvaskit/canvaskit.js": "43fa9e17039a625450b6aba93baf521e",
-"canvaskit/profiling/canvaskit.js": "f3bfccc993a1e0bfdd3440af60d99df4",
-"canvaskit/profiling/canvaskit.wasm": "a9610cf39260f60fbe7524a785c66101",
-"canvaskit/canvaskit.wasm": "04ed3c745ff1dee16504be01f9623498"
+"assets/assets/imgs/ffqrcode.png": "49d916dab51ee71fe69d0ad7895ca632",
+"assets/assets/imgs/ffemoji_heart.png": "2386aea1c0dc980987d6e8c1e9599378"
 };
 
 // The application shell files that are downloaded before a service worker can
